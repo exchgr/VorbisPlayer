@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>"11. Mean Mr. Mustard - The Beatles.ogg" "12. Polythene Pam - The Beatles.ogg" "13. She Came In Through The Bathroom Window - The Beatles.ogg" "14. Golden Slumbers - The Beatles.ogg" "15. Carry That Weight - The Beatles.ogg" "16. The End - The Beatles.ogg" "17. Her Majesty - The Beatles.ogg"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
